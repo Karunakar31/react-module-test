@@ -91,7 +91,7 @@
   background-color: white;
   font-weight: 500;
   padding: 1rem;
-  border-radius: 10px;
+  border-radius: 7px;
 }
 
 .modalContent {
@@ -194,7 +194,7 @@ button + label {
   .modalContent button {
     width: 26%;
     padding:4px 5px;
-    margin-left: 21.55rem;
+    margin-left: 20.35rem;
   }
 
   .groupName {
@@ -205,10 +205,10 @@ button + label {
     width: 310px;
   }
   .modalContent {
-    width: 540px;
-    height: 235px;
-    padding: 40px 0px 10px 40px;
-    gap: 1.25rem;
+    width: 500px;
+    height: 220px;
+    padding: 10px 0px 10px 30px;
+    gap: 1.20rem;
     font-size: 1.25rem;
   }
   .modalContent h2,
@@ -218,7 +218,7 @@ button + label {
     
   }
   .modalContent input {
-    width: 350px;
+    width: 325px;
     padding: 0.5rem 1rem;
   }
 
@@ -226,8 +226,8 @@ button + label {
     width: 60px;
     height: 60px;
     border-radius: 29px;
-    top: 83%;
-    left: 18%;
+    top: 88%;
+    left: 14%;
   }
 
 }

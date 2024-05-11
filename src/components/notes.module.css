@@ -139,6 +139,7 @@
     margin: .5px;
     text-align: right;
     font-weight: 500;
+    padding-bottom:10px;;
   }
   
   .note {
@@ -168,7 +169,7 @@
       font-size: 1rem;
     }
     .note {
-      padding: 1rem 2rem;
+      padding: 1rem 1.25rem;
       line-height: 1.5;
     }
     .input {
@@ -184,8 +185,7 @@
       font-size: 1rem;
     }
     .noteContent {
-      width: 776px;
-      margin: auto;
+      width: 98%;
       font-family: 'roboto', sans-serif;
     }
   }

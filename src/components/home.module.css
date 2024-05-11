@@ -27,11 +27,8 @@
     gap: 1rem;
   }
   
-  .image + div {
-    font-size: 2.5rem;
-  }
   .container > div:first-of-type p {
-    font-size: 1rem;
+    font-size: 1.25rem;
     width: 53%;
   }
   
